@@ -10,7 +10,7 @@ I remembered that Datamapper is great at that kind of thing, but oh, the new ver
 
 What to do? Find a new way...
 
-Pogoid:
+Pogoid is a sketch of a way of declaring models so that it:
 
 * Automatically creates a database
 * Automatically creates tables based on your models
