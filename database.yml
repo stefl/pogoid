@@ -1,0 +1,5 @@
+adapter: postgresql
+database:  mini_development
+username: postgres
+password: postgres
+host:      localhost
